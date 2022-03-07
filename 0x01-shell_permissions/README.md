@@ -1,2 +1,1 @@
-this is how to print permission commands
-
+this is how 
